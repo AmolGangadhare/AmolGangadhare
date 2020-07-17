@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Software professional with 3+ years of hands-on experience in developing mobile applications. 
+
+#### ✨ Android | iOS | Flutter | React Native | ReactJS | Salesforce ✨
+
+- 📫 How to reach me: amol.gangadhare@gmail.com
