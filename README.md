@@ -21,7 +21,6 @@ I'm a software developer with 3+ years of hands-on experience in developing mobi
 
 ## 📫 How to reach me:
 
-<a href="https://github.com/AmolGangadhare"><img src="https://github.com/AmolGangadhare/MyProfileRepo/blob/master/git_hub_logo.png" width="32" height="33"/>
 <a href="https://stackoverflow.com/users/9823185/amol-gangadhare"><img src="https://github.com/AmolGangadhare/MyProfileRepo/blob/master/stack_o_logo.svg" width="36" height="36"/>
 <a href="https://www.linkedin.com/in/amolgangadhare/"><img src="https://github.com/AmolGangadhare/MyProfileRepo/blob/master/linked_in_logo.svg" width="36" height="36"/>
 <a href="mailto:amol.gangadhare@gmail.com"><img src="https://github.com/AmolGangadhare/MyProfileRepo/blob/master/mail_logo.svg" width="36" height="36"/>
