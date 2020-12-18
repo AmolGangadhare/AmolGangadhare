@@ -19,7 +19,7 @@ I'm a software developer and open source contributor
 
 #### A bit more about me:
 @Tranzevo mostly works on mobile apps, currently exploring Salesforce. Constantly exploring and experimenting with new technology makes me crazy. 
-I love to code and solving complex challenges. Here you can find some of my open source contributions.
+I love to code and solving complex challenges. Here you can find some of my open source contributions and work.
 
 #### ✨ Android | iOS | Flutter | React Native | ReactJS | Salesforce ✨
 
