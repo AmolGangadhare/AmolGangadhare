@@ -33,3 +33,6 @@ I love to code and solving complex challenges. Here you can find some of my open
 <a href="https://www.linkedin.com/in/amolgangadhare/"><img src="https://github.com/AmolGangadhare/MyProfileRepo/blob/master/linked_in_logo.svg" width="36" height="36"/>
 <a href="https://stackoverflow.com/users/9823185/amol-gangadhare"><img src="https://github.com/AmolGangadhare/MyProfileRepo/blob/master/stack_o_logo.svg" width="36" height="36"/>
 <a href="https://medium.com/@AmolGangadhare"><img src="https://github.com/AmolGangadhare/MyProfileRepo/blob/master/Medium_Symbol_NoPadding.svg" width="36" height="36"/>
+
+
+<a href="https://stackoverflow.com/users/9823185/amol-gangadhare"><img src="https://stackoverflow.com/users/flair/9823185.png" width="208" height="58" alt="profile for Amol Gangadhare at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Amol Gangadhare at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
