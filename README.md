@@ -24,7 +24,7 @@ I love to code and solving complex challenges. Here you can find some of my open
 #### ✨ Android | iOS | Flutter | React Native | ReactJS | Salesforce ✨
 
 
-<-- ![](https://visitor-badge.glitch.me/badge?page_id=AmolGangadhare) -->
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=AmolGangadhare) -->
 
 ### 📫 Get in touch:
 
