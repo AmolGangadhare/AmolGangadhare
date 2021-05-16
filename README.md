@@ -26,7 +26,7 @@ software developer and open source contributor
 👨‍💻 technology enthusiast | 💚 experimenting tech | 🦉 night owl | ✈️ loves to travel
 
 
-##### ✨ android | iOS | flutter | react native | salesforce ✨
+#### ✨ android | iOS | flutter | react native | salesforce ✨
 
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=AmolGangadhare) -->
