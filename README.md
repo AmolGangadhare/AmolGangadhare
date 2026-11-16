@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 software developer and open source contributor
 
 - 🔭 I’m currently working on Salesforce
-- 🌱 I’m currently learning LWC
 - 👯 I’m looking to collaborate on <a href="https://github.com/AmolGangadhare/flutter_barcode_scanner">flutter_barcode_scanner</a>
 
 👨‍💻 technology enthusiast | 💚 experimenting tech | 🦉 night owl | ✈️ loves to travel
